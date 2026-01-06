@@ -2,7 +2,7 @@
 
 ## Download
 
-[Download Staxxio v1.0.0](./Staxxio-v1.0.0.apk)
+[Download Staxxio v0.0.1](./Staxxio-v0.0.1.apk)
 
 ## Installation
 
@@ -12,7 +12,7 @@
 
 ## Version Information
 
-- Version: 1.0.0
+- Version: 0.0.1
 - Build Date: 2026-01-06
 - Minimum Android Version: 5.0 (API 21)
 
